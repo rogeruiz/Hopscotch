@@ -14,6 +14,7 @@ Supported apps:
 * highlight.js
 * IDEA
 * iTerm2
+* LimeChat
 * Mou
 * Notepad++
 * Prettify.js
